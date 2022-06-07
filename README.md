@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JobbeBooij
 - 👀 I’m interested in gaming and coding
-- 🌱 I’m currently learning Java, Css, C#, HTML.
+- 🌱 I’m currently learning Javascript,PHP, Css, HTML.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
